@@ -15,7 +15,7 @@ if operator == "*":
 if operator == "/":
     print("result is",a / b)
 
-
 else:
     print("Invalid value")
+
 
